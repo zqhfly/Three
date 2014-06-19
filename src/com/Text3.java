@@ -12,7 +12,6 @@ public class Text3 {
 
 		System.out.println("hello!");
 
-		System.out.println("hello!");
 	}
 
 }
